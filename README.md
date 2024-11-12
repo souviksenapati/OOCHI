@@ -3,7 +3,7 @@
 Welcome to OCHI DESIGN, a stunning website clone inspired by award-winning designs from Awwwards. This project utilizes React.js, Framer Motion, GSAP, Locomotive Scroll, and React Router DOM to deliver a fantastic user experience with a variety of components.
 
 ## Deployed Website Link:
-You can access the deployed version of OCHI DESIGN [here](https://ochi98.netlify.app/).
+You can access the deployed version of OCHI DESIGN [here]().
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
